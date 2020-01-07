@@ -1,0 +1,29 @@
+"""
+Created on Thu Sep 12 23:14:52 2019
+
+@author: franco
+"""
+
+####  ¿CÓMO EJECUTAR LOS SCRIPS ? ####
+
+Se pueden ejecutar desde la consola una vez que se instaló Python en el sistema
+operativo junto con las llamadas bibliotecas científicas numpy y scipy (aunque
+hay otras que también se utilizan como matplotlib) pero se recomienda descargar
+el software Anaconda ya que, además de instalar python y todas las principales
+bibliotecas científicas, trae un IDE para Python llamado 'Spyder' que tiene una
+consola interactiva y un explorador de variables muy similar a los entornos de 
+matlab y octave. Anaconda se puede descargar desde (Se recomienda descargar la
+versión con Python 3.7 y no la 2.7):
+ 
+https://www.anaconda.com/distribution/
+
+
+Una vez descargado, abrir spyder y abrir los archivos tp1.py y pruebas.py.
+El primero tiene las funciones que se piden en el tp mientras que en pruebas.py
+se realizan pruebas para buscar errores en las funciones. Los scripts se 
+ejecutan con F5 (ejectar todo el archivo) pero si se deséa se puede apretar
+ shift+enter para ejecutar el bloque del archivo que se ve con un color claro,
+resaltando el bloque.
+
+
+Si quedan dudas, consultar en clase. 
